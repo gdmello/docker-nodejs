@@ -1,0 +1,4 @@
+nodejsapp:
+  image: points/compose-demo
+  ports:
+    - "49160:8080"
